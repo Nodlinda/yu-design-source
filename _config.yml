@@ -79,6 +79,6 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:Nodlinda/yu-design-deploy.git
+  repo: git@github.com:Nodlinda/yu-design.git
   branch: master
   message: 部署
